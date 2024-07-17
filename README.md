@@ -1,2 +1,2 @@
-# Forma-o_Github_Certification
+# Formação_Github_Certification
 Para fins de estudo na minha formação de GitHub.
