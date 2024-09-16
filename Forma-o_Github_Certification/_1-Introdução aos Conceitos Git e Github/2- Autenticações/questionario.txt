@@ -1,0 +1,11 @@
+Como você pode adicionar uma camada extra de segurança ao acessar sua conta do GitHub, além de usar nome de usuário e senha?
+ativando 2 fatores
+
+Como as chaves SSH tornam as interações com o GitHub mais seguras e convenientes?
+Permitindo conexões seguras a computadores remotos sem digitar senha ou token
+
+Qual é a atual medida adicional de segurança implementada no GitHub para dificultar o acesso não autorizado?
+Autenticação de 2F
+
+Como você pode habilitar a autenticação de dois fatores no GitHub?
+Através das configurações de segurança da sua conta.

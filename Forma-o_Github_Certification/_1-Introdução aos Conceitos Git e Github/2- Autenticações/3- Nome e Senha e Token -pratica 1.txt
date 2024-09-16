@@ -1,0 +1,24 @@
+Crie uma pasta para guardar seus projetos GIHHUB.
+para testar na pratica crie um novo repositório
+meu-repositorio-de-autenticação-DIO
+
+(conectar  o usuário no git bash antes de tudo
+git config --global user.name "GusGgk"
+git config --global user.email "gukumagai@gmail.com"
+para verificar se deu certo git config --list)
+
+depois de criar pegue o link do repositório em code.
+
+https://github.com/GusGgk/meu-repositorio-de-autentica-o-DIO.git
+git clone https://github.com/GusGgk/meu-repositorio-de-autentica-o-DIO.git
+
+para arrumar erros possíveis confira se você esta entrando na pasta correta, qualquer coisa cd (cola o repositório ) e de enter
+
+caso fizer uma mudança deve estar em main,
+e usar o git add . e depois usar git commit -m ""
+
+e dps git push origin main para enviar as atualizações... atualiza na hora la no repositório...
+
+
+
+

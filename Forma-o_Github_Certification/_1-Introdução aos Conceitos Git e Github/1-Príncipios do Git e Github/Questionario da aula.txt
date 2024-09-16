@@ -1,0 +1,21 @@
+O que é controle de versão?
+Registro de alterações em arquivos ao longo do tempo
+
+Como interagir com comunidades de código aberto no GitHub?
+Envolva-se em discussões em issues, participe de pull requests e contribua para projetos abertos
+
+O que são sistemas de controle de versão distribuídos, como Git?
+São sistemas que permitem a colaboração em projetos através de copias locais completas do repositório.
+
+Quais são os recursos fundamentais do GitHub?
+Repositórios,issues,pull requests, branches e colaboradores.
+
+Como fazer e acompanhar alterações no código usando Git?
+git add para preparar alterações.
+git commit para confirma-las e
+git log para exibir o histórico
+
+Como criar um novo projeto Git e configurá-lo?
+Use git init para iniciar repositório e configure com git config
+
+

@@ -1,0 +1,118 @@
+Permissões do Github
+Nesta aula, abordaremos sobre as permissões de nível hierárquico dentro do github.
+
+O níveis que abordaremos, será:
+Permissões de repositório
+
+Permissões de equipe
+
+Permissões da organização
+
+Permissões da empresa
+
+Permissões de Repositório
+Nas permissões de repositório há cinco tipos diferentes, sendo eles:
+
+Leitura: Para quem só precisa visualizar ou discutir o projeto, sem fazer modificações.
+
+Triagem: Para gerenciar problemas e solicitações sem poder fazer alterações. Ideal para alguns gerentes de projeto.
+
+Gravação: Para colaboradores que ativamente contribuem ao fazer "push" no projeto. A permissão padrão para desenvolvedores.
+
+Manutenção: Para gerentes de projeto que precisam gerenciar o repositório, mas sem acesso a ações críticas.
+
+Administrador: Acesso total ao projeto, incluindo ações críticas. Indicado para administradores e proprietários de repositórios.
+
+Você pode atribuir diferentes níveis de acesso a membros, colaboradores externos e equipes em sua organização, escolhendo o nível apropriado para cada pessoa ou função sem conceder mais acesso do que necessário. Depois de configurar permissões corretas em um repositório, você pode usá-lo como modelo para criar novos repositórios com a mesma estrutura e arquivos.
+
+Para criarmos um modelo:
+No GitHub.com, acesse a página principal do repositório.
+
+Abaixo no nome do repositório, selecione Configurações. Se você não conseguir ver a guia Configurações, abra o menu suspenso e escolha Configurações.
+
+
+Repositório de modelos
+Selecione Repositório de modelos.
+
+Permissões de Equipe
+As equipes facilitam a atribuição de permissões em vários usuários de uma vez. Membros herdam permissões da equipe pai, simplificando a propagação de autorizações com base na estrutura da empresa.
+
+Dois níveis de permissão em equipes:
+
+Membro: Mesmas habilidades dos membros da organização.
+
+Mantenedor: Pode fazer tudo que membros fazem e mais, como alterar nome, adicionar membros e gerenciar revisões de código.
+
+O dono da organização pode promover qualquer membro a mantenedor de uma equipe. Para auditar o acesso a um repositório, é possível ver uma lista de equipes e usuários com acesso nas configurações.
+
+
+Permissões da Organização
+Proprietário: Faz tudo que membros fazem e pode adicionar/remover usuários. Geralmente, são duas pessoas no máximo.
+
+Membro: Cria e gerencia repositórios e equipes da organização.
+
+Moderador: Bloqueia/desbloqueia colaboradores, estabelece limites de interação e esconde comentários em repositórios públicos.
+
+Gerente de Cobrança: Visualiza e edita informações de cobrança.
+
+Gerente de Segurança: Gerencia alertas de segurança e configurações em toda a organização, lê permissões de todos os repositórios.
+
+Colaborador Externo: Pode acessar um ou mais repositórios, não sendo membro explícito da organização.
+
+Além disso, também é possível definir permissões padrão para todos os membros da organização.
+
+
+Por fim, para melhorar o gerenciamento e a segurança, também é possível conceder permissões de leitura padrão a todos os membros da sua organização e ajustar o acesso aos repositórios de acordo com cada caso. 
+
+Permissões da Empresa
+Por extensão, cada conta de usuário individual que é membro de uma organização também é membro da empresa, e você pode controlar várias configurações relacionadas à autenticação por meio desse nível mais alto.
+
+Há três níveis de permissão no âmbito da empresa:
+
+Proprietário Corporativo: Controle total, pode gerenciar administração, adicionar/remover organizações, configurar políticas, cobrança e mais.
+
+Membro Corporativo: Mesmas habilidades dos membros da organização.
+
+Gerente de Cobrança Corporativo: Vê/edita informações de cobrança e adiciona/remove outros gerentes de cobrança.
+
+Além desses níveis, é possível definir uma política padrão para permissões de repositório em todas as organizações.
+
+
+Buscando melhorar o gerenciamento e a segurança, você pode conceder permissões de leitura padrão a todos os membros da sua empresa e ajustar o acesso aos repositórios caso a caso. 
+
+Segurança e Gerenciamento de Repositórios
+Regras de Proteção de Branch:
+Controle as alterações no repositório.
+
+Exija aprovações, pull requests, commits assinados e mais.
+
+Defina regras para todos, incluindo administradores.
+
+Restrinja quem pode fazer push para branches.
+
+Arquivo CODEOWNERS:
+Atribua membros ou equipes como proprietários de código.
+
+Eles são automaticamente solicitados como revisores em pull requests que afetam seu código.
+
+Visualizar Tráfego com Insights:
+Qualquer um com acesso de push pode ver:
+
+Clones completos.
+
+Visitantes recentes.
+
+Referências de sites.
+
+Conteúdo popular.
+
+Para acessar o grafo de tráfego:
+No GitHub.com, acesse a página principal do repositório.
+
+No nome do repositório, selecione Insights.
+
+
+À esquerda, selecione Tráfego:
+
+
+Opcionalmente, selecione Clones ou Exibições para ver o grafo de tráfego de clones ou exibições.

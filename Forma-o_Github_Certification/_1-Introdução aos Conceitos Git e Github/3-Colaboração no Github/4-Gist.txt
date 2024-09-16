@@ -1,0 +1,4 @@
+compartilhar pequenos textos,codigos
+basicamente um armazenamento leve para seus projetos.
+
+super interessante para testes e ajuda entre colaboradores em pequenas partes de códigos.

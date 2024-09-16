@@ -1,0 +1,55 @@
+Nesta aula, descobriremos a estrutura e a sintaxe do Markdown. Também veremos recursos do GitHub-Flavored Markdown (GFM), que são extensões de sintaxe que permitem integrar recursos do GitHub.
+Escrever o nome de usuario do perfil do github faz um readme especial para o perfil
+
+
+
+
+
+
+O que é Markdown?
+
+Markdown é uma linguagem de marcação que oferece uma abordagem simplificada para edição de conteúdo, protegendo os criadores de conteúdo das complexidades do HTML. Enquanto o HTML é excelente para renderizar o conteúdo exatamente como foi pretendido, ele ocupa muito espaço e pode ser difícil de trabalhar, mesmo em pequenas doses. A invenção do Markdown ofereceu um ótimo equilíbrio entre o poder do HTML para descrição de conteúdo e a facilidade do texto simples para edição.
+
+
+<!--> (jeito para comentar em makedown)
+CABEÇALHO
+
+italico ou italico
+*negrito* ou _negrito_
+__negrito e italico__
+
+- Lista 1
+- Lista 2
+ - Sublista
+
+1. Lista 1
+2. Lista 2
+ 1.Sublista
+
+Para links
+ [Nome do link](Link para colar)
+ para a imagem aparecer por exemplo se for uma imagem o seu link faça assim
+ ! [Nome do link](Link para colar)
+
+
+Para codigos,
+'dkajdadk.py'
+Blocos de codigos
+'''DAKDKADAKDKDKAKD'''
+
+PARA CITAÇÕES
+> TEXTOS DAS CITAÇÕES
+
+PARA TABELAS
+
+|BAH | BAH |
+|----|-----|
+|BA|CKAKDKD|
+
+
+# para texto maior
+##subtitulo
+### muito pequeno 
+#### titulo 4
+##### titulo 5
+###### titulo 6 o menor

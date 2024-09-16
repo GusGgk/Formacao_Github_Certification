@@ -1,0 +1,40 @@
+#Operações Matemáticas Simples - PROMPT PARA IA
+
+Eu
+Vamos solicitar como entrada dois números e depois vamos realizar uma operação simples entre eles.
+
+Resposta da IA (chatgpt)
+Claro! Vamos criar um programa simples que solicita dois números do usuário e realiza uma operação básica entre eles. Vou fazer um exemplo em Python, mas o conceito pode ser aplicado em outras linguagens também. Aqui, faremos a adição, mas você pode facilmente mudar para outras operações, como subtração, multiplicação ou divisão.
+
+Passo a Passo:
+Solicitar a entrada dos números: Vamos usar a função input() para pegar os números. Precisamos convertê-los para o tipo numérico, porque o valor retornado pelo input() é uma string.
+
+Realizar a operação: Neste exemplo, faremos a adição.
+
+Mostrar o resultado: Finalmente, exibiremos o resultado da operação.
+
+Código em Python:
+python
+
+# Passo 1: Solicitar a entrada dos números
+numero1 = float(input("Digite o primeiro número: "))
+numero2 = float(input("Digite o segundo número: "))
+
+# Passo 2: Realizar a operação
+soma = numero1 + numero2
+
+# Passo 3: Mostrar o resultado
+print(f"A soma de {numero1} e {numero2} é: {soma}")
+Explicação do Código:
+input("Digite o primeiro número: "): Essa linha solicita que o usuário digite o primeiro número. O que o usuário digita é armazenado na variável numero1.
+
+float(...): Usamos float() para converter a entrada do usuário, que é uma string, em um número decimal. Isso é útil se quisermos trabalhar com números que não sejam inteiros.
+
+soma = numero1 + numero2: Aqui realizamos a adição dos dois números.
+
+print(...): Essa linha exibe o resultado na tela. Usamos uma f-string para formatar a saída de forma clara.
+
+Teste o Código:
+Copie o código acima e cole em um ambiente de programação Python (como um IDE, Jupyter Notebook ou em um console Python).
+Execute-o e veja como funciona. Tente inserir diferentes valores para ver os resultados.
+Se precisar de ajuda em outra linguagem ou quiser fazer uma operação diferente, é só avisar!

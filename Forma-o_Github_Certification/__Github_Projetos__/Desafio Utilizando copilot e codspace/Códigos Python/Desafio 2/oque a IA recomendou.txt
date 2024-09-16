@@ -1,0 +1,40 @@
+#Repetindo Textos - PROMPT PARA IA
+
+Eu
+Agora vamos solicitar uma string e um número inteiro como entrada. Depois teremos que retornar a string repetida o número de vezes informado.
+
+Resposta da IA(ChatGpt)
+Claro! Vamos escrever um código simples que solicita ao usuário uma string e um número inteiro e, em seguida, retorna a string repetida o número de vezes especificado. Vou explicar isso passo a passo em Python, que é uma linguagem fácil de entender.
+
+Passos para a Solução:
+Solicitar a String: Vamos pedir ao usuário para inserir uma string.
+Solicitar o Número Inteiro: Em seguida, vamos pedir ao usuário para inserir um número inteiro.
+Repetir a String: Utilizaremos a operação de repetição para retornar a string o número de vezes desejado.
+Exibir o Resultado: Por fim, exibimos o resultado para o usuário.
+Código em Python:
+python
+
+# Passo 1: Solicitar ao usuário para inserir uma string
+string_usuario = input("Por favor, insira uma string: ")
+
+# Passo 2: Solicitar ao usuário para inserir um número inteiro
+numero_repeticoes = int(input("Por favor, insira um número inteiro: "))
+
+# Passo 3: Repetir a string o número de vezes informado
+resultado = string_usuario * numero_repeticoes
+
+# Passo 4: Exibir o resultado
+print("Resultado:", resultado)
+Explicação do Código:
+input(): A função input() é usada para capturar a entrada do usuário. O que o usuário digitar será armazenado na variável correspondente.
+
+int(): È importante converter a entrada do número para um inteiro, pois, por padrão, o input() retorna uma string.
+
+Repetição: No Python, para repetir uma string, você pode usar o operador *. Por exemplo, "abc" * 3 resultará em "abcabcabc".
+
+print(): A função print() é usada para mostrar o resultado na tela.
+
+Testando o Código:
+Ao rodar o código, o usuário será solicitado a inserir uma string (por exemplo, "Olá").
+Depois, ele inserirá um número (por exemplo, 3).
+O resultado será "OláOláOlá".

@@ -1,0 +1,41 @@
+Eu
+#VAMOS RECEBER DOIS DADOS DIFERENTES DO USUARIO E CONCATENA-LOS EM UMA ÚNICA STRING?! em python
+
+Resposta da IA para meu problema:
+Claro! Vamos criar um programa em Python que recebe dois dados diferentes do usuário e os concatena em uma única string. Vou explicar passo a passo como fazer isso.
+
+Passo a passo:
+Receber os dados do usuário: Usaremos a função input() para receber os dados.
+Armazenar os dados: Vamos armazenar os dados em variáveis.
+Concatenar as strings: Usaremos o operador + para juntar as duas strings.
+Mostrar o resultado: Utilizaremos print() para exibir a string resultante.
+Código:
+Aqui está o código completo:
+
+python
+
+# Passo 1: Receber os dados do usuário
+primeiro_dado = input("Digite o primeiro dado: ")
+segundo_dado = input("Digite o segundo dado: ")
+
+# Passo 2: Concatenar as strings
+resultado = primeiro_dado + segundo_dado
+
+# Passo 3: Mostrar o resultado
+print("A concatenação dos dados é:", resultado)
+Explicação do código:
+input(): A função input() é utilizada para capturar o que o usuário digita. O que o usuário digita é sempre lido como uma string.
+
+Concatenando: primeiro_dado + segundo_dado combina as duas strings. Se o usuário digitou "Olá" e "Mundo", a resultado será "OláMundo".
+
+print(): Exibe o resultado final no console.
+
+Exemplos de uso:
+Se o usuário digitar:
+
+Primeiro dado: Olá
+Segundo dado: Mundo
+A saída será:
+
+
+A concatenação dos dados é: Olá Mundo

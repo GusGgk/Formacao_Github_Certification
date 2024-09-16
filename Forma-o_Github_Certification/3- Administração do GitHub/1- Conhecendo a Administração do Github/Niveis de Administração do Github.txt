@@ -1,0 +1,5 @@
+Conhecendo a Administração do Github
+Você aprenderá os conceitos fundamentais para utilizar as ferramentas do GitHub, as medidas de segurança e os controle disponíveis para administradores do GitHub em uma organização ou empresa.
+
+O que é a administração do Github?
+Os administradores do GitHub possuem um trabalho super importante que é proteger os projetos e garantir que as equipes certas possam colaborar e compartilhar seus projetos/códigos fonte. Atualmente o Github possui três tipos de administrações, sendo, a Administração em nível de equipe, de organização e empresarial

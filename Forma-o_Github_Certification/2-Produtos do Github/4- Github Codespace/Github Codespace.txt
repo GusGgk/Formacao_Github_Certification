@@ -1,0 +1,7 @@
+O que é?
+ambiente de desenvolvimento totalmente na nuvem.
+fica salvo na infra do GitHub
+apenas tendo a internet você consegue trabalhar da onde quiser
+(para qualquer tipo de projeto)
+fácil manipulação
+pode instalar suas extensões e plugins 

@@ -1,0 +1,11 @@
+O que é um Pull Request no GitHub?
+Um pull request é uma solicitação para revisão e mesclagem de alterações em um repositório
+
+O que são Gists no GitHub?
+Gists são pequenos repositórios Git e independentes, geralmente contendo um único arquivo, usados para compartilhar trechos de códigos.
+
+Para que serve o Fork no GitHub?
+Criar uma copia de um repositório alheio para sua conta
+
+Qual é o propósito das Wikis no GitHub?
+Fornecer uma plataforma colaborativa para documentação de projetos.

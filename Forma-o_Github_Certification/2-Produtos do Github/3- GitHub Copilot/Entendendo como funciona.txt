@@ -1,0 +1,31 @@
+é uma extensão, serve para dar sugestões nas escritas dos códigos para adaptar ao estilo de cada um para seus códigos.
+Deve ter consciência ao usar, não deve substituir seus códigos por completo.
+Deve-se  apenas para ajuda, para absorver os conteúdos que você esta vendo.
+Pago
+Tem como ter acesso usando conta estudante (matriculado em faculdade)
+
+
+CONHECENDO O GITHUB COPILOT na pratica
+
+como dito, é uma extensão que ao conectada com sua conta git, pode ser utilizada no VsCode por exemplo.
+
+alguns passos
+1- estar conectado com a conta do git em algum app
+2- precisa ter aprovado o GitHub copilot
+3- Instalar a extensão do copilot
+4- Apenas usar kkkk
+
+
+QUESTIONARIO PARA APRENDIZADO
+Além de oferecer sugestões de código, o que mais o GitHub Copilot pode fazer durante o processo de desenvolvimento?
+Gerar documentação do código.
+
+O GitHub Copilot substitui completamente a necessidade de programadores escreverem código manualmente?
+Não, é uma ferramenta auxiliar para gerar código, mas a intervenção humana é necessária.
+
+Qual linguagem de programação é suportada pelo GitHub Copilot?
+Diversas linguagens, incluindo Python, JavaScript, Java, entre outras.
+
+Qual é o propósito principal do GitHub Copilot?
+Fornecer sugestões automáticas de código durante a programação.
+

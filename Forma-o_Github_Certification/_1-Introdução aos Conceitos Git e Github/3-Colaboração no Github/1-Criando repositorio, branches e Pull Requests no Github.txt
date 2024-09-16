@@ -1,0 +1,14 @@
+Antes de tudo, o que é um repositório?
+Um repositório é o local onde contém todos os arquivos do nosso projeto. Seria como uma pastinha que guarda todos esses arquivos de nossos projeto, como os nossos projetos de software. É com eles que podemos colaborar, gerenciar nosso trabalho, acompanhar as alterações, armazenar o histórico de alterações, etc...
+
+O que são Branches?
+É uma linha de desenvolvimento separada no controle de versão. Ela permite que a gente trabalhe em modificações no código sem afetar diretamente o código principal (geralmente chamado de branch principal, como "main" ou "master"). Isso facilita o desenvolvimento simultâneo de recursos ou correções de bugs sem interferir no código estável da versão principal. Depois de concluir as alterações em uma branch, você pode mesclar essas alterações de volta ao branch principal.
+
+E o Pull Resquest e Merge?
+Um Pull Request (PR), em português, significa "Solicitação de Pull" ou "Pedido de Mesclagem". É um recurso comum em plataformas de hospedagem de código-fonte colaborativo, como o GitHub. O objetivo principal de um Pull Request é propor alterações em um repositório e solicitar que essas alterações sejam revisadas e mescladas (merged) no código principal. 
+
+Já o "merge" é uma operação no controle de versão que combina as alterações de duas branches diferentes. Quando a gente conclui o desenvolvimento em uma branch e deseja incorporar essas alterações de volta à branch principal (ou a outra branch desejada), realizamos um merge.
+
+
+Já o Fork?
+É basicamente uma cópia de um repositório (um projeto de software) de outra pessoa para o seu próprio espaço no GitHub. Isso permite que você faça alterações no código sem afetar o projeto original. Se você quiser contribuir de volta, pode enviar um "pull request" para que o dono do projeto original considere suas mudanças e as incorpore.
